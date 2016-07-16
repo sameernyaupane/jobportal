@@ -1,0 +1,27 @@
+/**
+ * Custom Styles
+ * @project Job Portal
+ * @author Sameer Nyaupane
+ */
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#skills button:hover { 
+  text-decoration: none;
+  cursor: initial;
+  background-color: initial; 
+}
+
+#skills .btn-group { margin: 3px; }
+
+#post-a-job { margin-top: 8px; } 
+
+#search_term, #submit, #post-a-job { height: 42px; }
+
+.form-group.required label:after {
+  content:"*";
+  color:red;
+}
