@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use App\Helpers\Uuid;
+use JobPortal\Helpers\Uuid;
 use Carbon\Carbon;
 
 class JobsTableSeeder extends Seeder

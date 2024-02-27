@@ -1,6 +1,8 @@
 /vendor
 /node_modules
-/public_html/storage
+/public/storage
 Homestead.yaml
 Homestead.json
 .env
+.env.cypress
+.env.testing
